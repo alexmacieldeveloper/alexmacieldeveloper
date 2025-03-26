@@ -27,7 +27,7 @@ Tenho experiência com **React, Next.js, Angular e TypeScript**, além de um só
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmacieldeveloper&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmacieldeveloper&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmacieldeveloper&layout=donut&theme=dark" />
 </div>
 
 
