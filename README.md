@@ -3,7 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmacieldeveloper)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmacielsilva29@gmail.com)
 
-![Álex GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmacieldeveloper&show_icons=true&theme=dracula)
+![Álex GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmacieldeveloper&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmacieldeveloper&layout=donut)](https://github.com/alexmacieldeveloper/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
